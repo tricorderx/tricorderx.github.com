@@ -35,3 +35,10 @@ PRIZE will be made available in approximately September 2012.
 * **"...solutions created by Teams: diagnostic capability.."**
     * Must all diagnostic capability be fully automated or can human clinician 
       assistance be used in a semi-automated manner?
+
+
+
+<br /><br />
+[Edit page](https://github.com/tricorderx/tricorderx.github.com/edit/master/guidelines.md) - 
+(must be logged in to Github and a member of tricorderx - 
+ make sure to click 'Commit Changes' at bottom of page when done.)
